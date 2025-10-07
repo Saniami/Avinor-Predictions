@@ -11,5 +11,6 @@ dependencies = [
     "numpy",
     "requests",
     "scikit-learn",
-    "xgboost"
+    "xgboost",
+    "python-dotenv"
 ]
