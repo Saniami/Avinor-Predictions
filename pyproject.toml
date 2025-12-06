@@ -1,7 +1,7 @@
 [project]
 name = "Avinor_Predictions"
 version = "0.1.0"
-description = "Add your description here"
+description = "Developing a model that shows the probability of simultaneous active dialogue for flights based on Avinor's data from their data competition."
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
@@ -13,4 +13,5 @@ dependencies = [
     "scikit-learn",
     "xgboost",
     "python-dotenv"
+
 ]
